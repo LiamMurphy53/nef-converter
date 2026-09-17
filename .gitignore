@@ -1,0 +1,11 @@
+.DS_Store
+._*
+/build/
+/dist/
+.build/
+*.dSYM/
+# Keep personal photos and exports out of the repository.
+*.[Nn][Ee][Ff]
+*.jpg
+*.jpeg
+*.png
